@@ -1,2 +1,2 @@
 # get_next_line
-The aim of this project is to make you code a function that returns a line, read from a file descriptor.
+Le but de ce projet est de vous faire coder une fonction qui renvoie une ligne, lue à partir d'un descripteur de fichier.
